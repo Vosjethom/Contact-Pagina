@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContactPagina
 build_property.RootNamespace = ContactPagina
-build_property.ProjectDir = C:\Users\thomv\OneDrive\Bureaublad\School\Jaar 2\Semester 2 Web Development\Server Technology\ContactPagina\ContactPagina\
+build_property.ProjectDir = C:\Users\thomv\OneDrive\Bureaublad\School\Jaar 2\Semester 2 Web Development\Contact-Pagina\ContactPagina\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\thomv\OneDrive\Bureaublad\School\Jaar 2\Semester 2 Web Development\Server Technology\ContactPagina\ContactPagina
+build_property.MSBuildProjectDirectory = C:\Users\thomv\OneDrive\Bureaublad\School\Jaar 2\Semester 2 Web Development\Contact-Pagina\ContactPagina
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Home/Contact.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Home/Index.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Home/Index1.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Home/Index1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Home/Privacy.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Home/Privacy1.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Home/Privacy1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5MS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Shared/Error.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/_ViewImports.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/_ViewStart.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Server Technology/ContactPagina/ContactPagina/Views/Shared/_Layout.cshtml]
+[C:/Users/thomv/OneDrive/Bureaublad/School/Jaar 2/Semester 2 Web Development/Contact-Pagina/ContactPagina/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x9y4s77aev

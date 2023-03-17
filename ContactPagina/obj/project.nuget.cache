@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/kM4k2YE+5hiCajH4vphfsqEW+YR7QHjZcQpoo44xWNLMpyAjQQXxGK83CC9EcDpVGERJglUaJnNeXKQ3LFNA==",
+  "dgSpecHash": "ixHjUWe0h5zQWo9Pa5A7r+arvRDGPHNbwYN2/HkRZ8SMcINseGETArZPQLQt+Uiv6HU7ZTOCOGZCiW7JgoLH4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thomv\\OneDrive\\Bureaublad\\School\\Jaar 2\\Semester 2 Web Development\\Server Technology\\ContactPagina\\ContactPagina\\ContactPagina.csproj",
+  "projectFilePath": "C:\\Users\\thomv\\OneDrive\\Bureaublad\\School\\Jaar 2\\Semester 2 Web Development\\Contact-Pagina\\ContactPagina\\ContactPagina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thomv\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\thomv\\.nuget\\packages\\sendgrid\\9.28.1\\sendgrid.9.28.1.nupkg.sha512",
