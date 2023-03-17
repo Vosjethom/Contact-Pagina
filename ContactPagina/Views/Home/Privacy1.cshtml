@@ -1,0 +1,56 @@
+﻿@{
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Contactpagina</title>
+        <link rel="stylesheet" href="css/contact-style.css">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    </head>
+
+    <body>
+
+        <div class="page">
+            <section class="contact">
+
+                <h1>Bericht aan Thom Vos</h1>
+
+                <form action="" method="post" class="form-contactpagina">
+
+                    <div class="form-contactpagina__inputelement fx-col">
+                        <label for="name">Onderwerp: </label>
+                        <input type="text" name="subject" id="subject" maxlength="200" required>
+                    </div>
+
+                    <div class="form-contactpagina__inputelement fx-col">
+                        <label for="email">Email: </label>
+                        <input type="email" name="email" id="email">
+                    </div>
+
+                    <div class="form-contactpagina__inputelement fx-col">
+                        <label for="call-date">Bericht:</label>
+                        <textarea name="message" type="text" id="message" maxlength="600" required></textarea>
+                    </div>
+
+                    <div class="form-contactpagina__inputelement">
+                        <input type="submit" value="Annuleer" id="Annuleer" class="annuleer">
+                        <input type="submit" value="Verstuur!" class="margin-left verstuur">
+
+                        @*                    <script type="text/javascript">
+                    document.getElementById("Annuleer").onclick = function () {
+                    location.href = "/Uitwerkingen profiel- en contactpagina/index.html";
+                    };
+                    </script>*@
+
+                    </div>
+
+                </form>
+
+            </section>
+        </div>
+
+    </body>
+
+    </html>
+}
